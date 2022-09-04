@@ -1,0 +1,1956 @@
+fileFormatVersion: 2
+guid: 9f49319d6700ccc47a8aeb823344dfb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3186575185625007550
+    second: Arcade - Pac-Man - General Sprites_0
+  - first:
+      213: 920017232686747848
+    second: Arcade - Pac-Man - General Sprites_1
+  - first:
+      213: -4296956827505345207
+    second: Arcade - Pac-Man - General Sprites_2
+  - first:
+      213: -5596695228494493699
+    second: Arcade - Pac-Man - General Sprites_3
+  - first:
+      213: 4742927278161703594
+    second: Arcade - Pac-Man - General Sprites_4
+  - first:
+      213: 470042211197098921
+    second: Arcade - Pac-Man - General Sprites_5
+  - first:
+      213: 6511874810673123364
+    second: Arcade - Pac-Man - General Sprites_6
+  - first:
+      213: -5455107663911863324
+    second: Arcade - Pac-Man - General Sprites_7
+  - first:
+      213: -6347502839258500428
+    second: Arcade - Pac-Man - General Sprites_8
+  - first:
+      213: 2670241615797156238
+    second: Arcade - Pac-Man - General Sprites_9
+  - first:
+      213: 7066973847881737857
+    second: Arcade - Pac-Man - General Sprites_10
+  - first:
+      213: 5368265272817717067
+    second: Arcade - Pac-Man - General Sprites_11
+  - first:
+      213: -353648725767398399
+    second: Arcade - Pac-Man - General Sprites_12
+  - first:
+      213: -3741878633025017733
+    second: Arcade - Pac-Man - General Sprites_13
+  - first:
+      213: 7530298024726150553
+    second: Arcade - Pac-Man - General Sprites_14
+  - first:
+      213: -3134984100016579493
+    second: Arcade - Pac-Man - General Sprites_15
+  - first:
+      213: 6888441845533393205
+    second: Arcade - Pac-Man - General Sprites_16
+  - first:
+      213: 1709586631340014096
+    second: Arcade - Pac-Man - General Sprites_17
+  - first:
+      213: -7223258115209374156
+    second: Arcade - Pac-Man - General Sprites_18
+  - first:
+      213: 1399484664005929550
+    second: Arcade - Pac-Man - General Sprites_19
+  - first:
+      213: -2009492244379184793
+    second: Arcade - Pac-Man - General Sprites_20
+  - first:
+      213: 5931690697958158157
+    second: Arcade - Pac-Man - General Sprites_21
+  - first:
+      213: -7133805364987671983
+    second: Arcade - Pac-Man - General Sprites_22
+  - first:
+      213: -1921672366530073048
+    second: Arcade - Pac-Man - General Sprites_23
+  - first:
+      213: 6063694233755191457
+    second: Arcade - Pac-Man - General Sprites_24
+  - first:
+      213: -6051052171844097117
+    second: Arcade - Pac-Man - General Sprites_25
+  - first:
+      213: -3077762524733583050
+    second: Arcade - Pac-Man - General Sprites_26
+  - first:
+      213: 6866528455067792620
+    second: Arcade - Pac-Man - General Sprites_27
+  - first:
+      213: 4854111422240277481
+    second: Arcade - Pac-Man - General Sprites_28
+  - first:
+      213: -1345213711309912419
+    second: Arcade - Pac-Man - General Sprites_29
+  - first:
+      213: 5789393292103723564
+    second: Arcade - Pac-Man - General Sprites_30
+  - first:
+      213: 5070572504530980131
+    second: Arcade - Pac-Man - General Sprites_31
+  - first:
+      213: 449274349363423175
+    second: Arcade - Pac-Man - General Sprites_32
+  - first:
+      213: -5113106745079036166
+    second: Arcade - Pac-Man - General Sprites_33
+  - first:
+      213: 6433623844681227848
+    second: Arcade - Pac-Man - General Sprites_34
+  - first:
+      213: -1495728462525322635
+    second: Arcade - Pac-Man - General Sprites_35
+  - first:
+      213: -7437050525307682155
+    second: Arcade - Pac-Man - General Sprites_36
+  - first:
+      213: -7256267210310120126
+    second: Arcade - Pac-Man - General Sprites_37
+  - first:
+      213: 195871199925138489
+    second: Arcade - Pac-Man - General Sprites_38
+  - first:
+      213: 6830833008670061680
+    second: Arcade - Pac-Man - General Sprites_39
+  - first:
+      213: 4589811838273339305
+    second: Arcade - Pac-Man - General Sprites_40
+  - first:
+      213: 5441463177173582964
+    second: Arcade - Pac-Man - General Sprites_41
+  - first:
+      213: 3535152105596362591
+    second: Arcade - Pac-Man - General Sprites_42
+  - first:
+      213: -8525142895808539674
+    second: Arcade - Pac-Man - General Sprites_43
+  - first:
+      213: 4448747827464535363
+    second: Arcade - Pac-Man - General Sprites_44
+  - first:
+      213: -6124899850519978289
+    second: Arcade - Pac-Man - General Sprites_45
+  - first:
+      213: -6908427708681117919
+    second: Arcade - Pac-Man - General Sprites_46
+  - first:
+      213: 2043520143396795029
+    second: Arcade - Pac-Man - General Sprites_47
+  - first:
+      213: -6393636797008962840
+    second: Arcade - Pac-Man - General Sprites_48
+  - first:
+      213: 3015426682906692893
+    second: Arcade - Pac-Man - General Sprites_49
+  - first:
+      213: 6811399805713941422
+    second: Arcade - Pac-Man - General Sprites_50
+  - first:
+      213: -6579839377439467008
+    second: Arcade - Pac-Man - General Sprites_51
+  - first:
+      213: -3135324805705621931
+    second: Arcade - Pac-Man - General Sprites_52
+  - first:
+      213: -2382696902151674983
+    second: Arcade - Pac-Man - General Sprites_53
+  - first:
+      213: 7123821560326228421
+    second: Arcade - Pac-Man - General Sprites_54
+  - first:
+      213: -4080800605244589491
+    second: Arcade - Pac-Man - General Sprites_55
+  - first:
+      213: -5766638638868822167
+    second: Arcade - Pac-Man - General Sprites_56
+  - first:
+      213: 1502796575375534612
+    second: Arcade - Pac-Man - General Sprites_57
+  - first:
+      213: 4773600122041589604
+    second: Sprites_0
+  - first:
+      213: -4789670105439411607
+    second: Sprites_1
+  - first:
+      213: 7061801754131594114
+    second: Sprites_2
+  - first:
+      213: -7377819553374844296
+    second: Sprites_3
+  - first:
+      213: -638443171332479689
+    second: Sprites_4
+  - first:
+      213: -1428572451713796752
+    second: Sprites_5
+  - first:
+      213: 7411919347176863388
+    second: Sprites_6
+  - first:
+      213: -8796573629370075563
+    second: Sprites_7
+  - first:
+      213: -8705658455517951556
+    second: Sprites_8
+  - first:
+      213: 8279819551763339774
+    second: Sprites_9
+  - first:
+      213: 7010537895803775351
+    second: Sprites_10
+  - first:
+      213: 7792300033668422012
+    second: Sprites_11
+  - first:
+      213: 7791742886103884341
+    second: Sprites_12
+  - first:
+      213: 394738354570393740
+    second: Sprites_13
+  - first:
+      213: -9046095728324299325
+    second: Sprites_14
+  - first:
+      213: 7960299501354929935
+    second: Sprites_15
+  - first:
+      213: 1579531326687846966
+    second: Sprites_16
+  - first:
+      213: 7188930153578278880
+    second: Sprites_17
+  - first:
+      213: -263089634459758618
+    second: Sprites_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 234
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a3fba70c207c3d0800000000000000
+      internalID: -3186575185625007550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 234
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c018857cce84cc00800000000000000
+      internalID: 920017232686747848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 234
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dba5918842e54c0800000000000000
+      internalID: -4296956827505345207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 234
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7467d975b8452b0800000000000000
+      internalID: -5596695228494493699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 234
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2b65afa3342d140800000000000000
+      internalID: 4742927278161703594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 234
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab97d396ece58600800000000000000
+      internalID: 470042211197098921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 234
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205cff83a3de5a50800000000000000
+      internalID: 6511874810673123364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 234
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb5096b709b44b0800000000000000
+      internalID: -5455107663911863324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 234
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b6375cc329e7a0800000000000000
+      internalID: -6347502839258500428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 233
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fd0e1a9a9e0520800000000000000
+      internalID: 2670241615797156238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 233
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18667ffa54fe21260800000000000000
+      internalID: 7066973847881737857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 233
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8d56c2d8ef7a40800000000000000
+      internalID: 5368265272817717067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 233
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5d5d8b56971bf0800000000000000
+      internalID: -353648725767398399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 231
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b786be5653d221cc0800000000000000
+      internalID: -3741878633025017733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 218
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db0a0082ef08860800000000000000
+      internalID: 7530298024726150553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 218
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c9306229c4e74d0800000000000000
+      internalID: -3134984100016579493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53144faac59a89f50800000000000000
+      internalID: 6888441845533393205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a37c1cbfba9b710800000000000000
+      internalID: 1709586631340014096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436dcf1c305d1cb90800000000000000
+      internalID: -7223258115209374156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 187
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a2eaa13e7fb6310800000000000000
+      internalID: 1399484664005929550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 186
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76150e25379dc14e0800000000000000
+      internalID: -2009492244379184793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe8492349915250800000000000000
+      internalID: 5931690697958158157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a422b21d1affc90800000000000000
+      internalID: -7133805364987671983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e6a420a29d455e0800000000000000
+      internalID: -1921672366530073048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8009d57c1962450800000000000000
+      internalID: 6063694233755191457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab60eb0c18560ca0800000000000000
+      internalID: -6051052171844097117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631de3a5a479945d0800000000000000
+      internalID: -3077762524733583050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce47d6cdf3fca4f50800000000000000
+      internalID: 6866528455067792620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e34ccece944d5340800000000000000
+      internalID: 4854111422240277481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96436eb147d45de0800000000000000
+      internalID: -1345213711309912419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a2fd0968e085050800000000000000
+      internalID: 5789393292103723564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8e6ce3da4e5640800000000000000
+      internalID: 5070572504530980131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76080f3a42c3600800000000000000
+      internalID: 449274349363423175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af609e871889a09b0800000000000000
+      internalID: -5113106745079036166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e15b8ccc2d84950800000000000000
+      internalID: 6433623844681227848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aacb653ea1e3be0800000000000000
+      internalID: -1495728462525322635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592476e43f94ac890800000000000000
+      internalID: -7437050525307682155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8626ea6f8c4b90800000000000000
+      internalID: -7256267210310120126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934744d81dfd7b200800000000000000
+      internalID: 195871199925138489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 151
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074bac91e6efbce50800000000000000
+      internalID: 6830833008670061680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 151
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af3a2e8c8942bf30800000000000000
+      internalID: 4589811838273339305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 151
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ccc5fde5f38b40800000000000000
+      internalID: 5441463177173582964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9b092c126f0130800000000000000
+      internalID: 3535152105596362591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e313e354bb90b980800000000000000
+      internalID: -8525142895808539674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 107
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d705f14902dbd30800000000000000
+      internalID: 4448747827464535363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 107
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced9ec790cfffaa0800000000000000
+      internalID: -6124899850519978289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 107
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9893f9955020a0800000000000000
+      internalID: -6908427708681117919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 93
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592758e4eba0c5c10800000000000000
+      internalID: 2043520143396795029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 93
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea1a63453d3547a0800000000000000
+      internalID: -6393636797008962840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d43e87792f8d920800000000000000
+      internalID: 3015426682906692893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 93
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38eb2f804f68e50800000000000000
+      internalID: 6811399805713941422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 93
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad79c92f6bfa4a0800000000000000
+      internalID: -6579839377439467008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 77
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e127c63b61d74d0800000000000000
+      internalID: -3135324805705621931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99363d3aac5feeed0800000000000000
+      internalID: -2382696902151674983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9838a27f5ecd260800000000000000
+      internalID: 7123821560326228421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 186
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a723578751e57c0800000000000000
+      internalID: -4080800605244589491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 186
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9678e2ef5b8c8ffa0800000000000000
+      internalID: -5766638638868822167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - General Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 186
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aaeece5810bd410800000000000000
+      internalID: 1502796575375534612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fdc06f40c3f3240800000000000000
+      internalID: 4773600122041589604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e9f57a6ca78db0800000000000000
+      internalID: -4789670105439411607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7e35c74f800260800000000000000
+      internalID: 7061801754131594114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a4920a438bc9990800000000000000
+      internalID: -7377819553374844296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735247b715bc327f0800000000000000
+      internalID: -638443171332479689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b0bf8ce0bc2ce0800000000000000
+      internalID: -1428572451713796752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c967250506d6cd660800000000000000
+      internalID: 7411919347176863388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556f3dce3ea4ce580800000000000000
+      internalID: -8796573629370075563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb90afe52c94f2780800000000000000
+      internalID: -8705658455517951556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef910339304d7e270800000000000000
+      internalID: 8279819551763339774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7796cc3a21f6a4160800000000000000
+      internalID: 7010537895803775351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791212689fc32c60800000000000000
+      internalID: 7792300033668422012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532266b5fd4d12c60800000000000000
+      internalID: 7791742886103884341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f36b21746a7500800000000000000
+      internalID: 394738354570393740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53d050ddfc57280800000000000000
+      internalID: -9046095728324299325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fcaf3983aa87e60800000000000000
+      internalID: 7960299501354929935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a4d67f5f9be510800000000000000
+      internalID: 1579531326687846966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa027d2e534c360800000000000000
+      internalID: 7188930153578278880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 185
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef40f11f51595cf0800000000000000
+      internalID: -263089634459758618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
